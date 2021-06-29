@@ -9,9 +9,9 @@
 OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 
-char ssid[] = "dhl18-deco";
-char pass[] = "JantjeWasVan2004";
-char auth[] = "EQ15y_v8btNF1raQ7A9Qib70j8Ive7gG";
+char ssid[] = "***";
+char pass[] = "***";
+char auth[] = "***";
 
 SimpleTimer timer;
 
